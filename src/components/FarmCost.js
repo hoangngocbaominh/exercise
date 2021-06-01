@@ -1,11 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-PaymentMethod.propTypes = {
+FarmCost.propTypes = {
     
 };
 
-function PaymentMethod(props) {
+function FarmCost(props) {
     return (
         <div>
             
@@ -13,4 +13,4 @@ function PaymentMethod(props) {
     );
 }
 
-export default PaymentMethod;
+export default FarmCost;
